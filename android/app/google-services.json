@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501456658328",
+    "project_id": "breathe-79bf1",
+    "storage_bucket": "breathe-79bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501456658328:android:801b29fc60aadd5a9095ed",
+        "android_client_info": {
+          "package_name": "com.example.breathe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501456658328-044ump3m4sledir0qub2e8ramgs8km3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_YUFKlF0EDRmNg5gE9r824C15QqnvqGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501456658328-044ump3m4sledir0qub2e8ramgs8km3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
